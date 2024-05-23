@@ -63,7 +63,7 @@ int main(void)
 	// 4 input (pull up) 0 = pressed
 	// PC(0-3) on pad(4-7)
 	// 4 outputs
-	// PA(4-7) on pad(0-3)
+	// PC(4-7) on pad(0-3)
 
 
 	*pClkCtrlReg |= (4);
